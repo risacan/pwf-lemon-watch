@@ -41,7 +41,7 @@ static void init() {
   window_stack_push(s_main_window, true);
 
   // 背景を黄色にする
-  window_set_background_color(s_main_window, GColorBrightGreen);
+  window_set_background_color(s_main_window, GColorTiffanyBlue);
 }
 
 static void deinit() {
